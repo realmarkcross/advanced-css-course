@@ -4,3 +4,6 @@
 
 /node_modules
 /.idea/advanced-css-course.iml
+/node_modules/
+*/node_modules/
+
